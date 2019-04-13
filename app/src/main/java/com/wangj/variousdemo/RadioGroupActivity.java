@@ -88,7 +88,5 @@ public class RadioGroupActivity extends AppCompatActivity {
                 }
             }
         });
-
-        group2.clearCheck();
     }
 }
